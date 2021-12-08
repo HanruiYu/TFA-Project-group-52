@@ -2,7 +2,7 @@
 
 Tool For Analytics Section 1 Group 52
 
-People: Hanrui Yu  Keying Yu(ky2454)
+People: Hanrui Yu(hy2716)  Keying Yu(ky2454)
 
 Overview:                       
 For this project we did two analysis on the 2020 311-servers requestfor New York City.  The first one analyze what the top 10 causes of calls to 311 are in our zipcode(10038). The second one analyze whether illegal parking incidents are a larger fraction of total 311 incidents in general and are in our zipcode(10038).
